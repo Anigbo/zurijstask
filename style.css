@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: green;
+    background-image: linear-gradient(to right, green , whitesmoke, green);
+}
+
+main {
+    border: none;
+    width: 50%;
+    margin: 50px;
+    margin-left: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(69, 190, 69);
+    color: whitesmoke;
+    box-sizing: border-box;
+    box-shadow: 3px 2px 5px 1px RGB(32, 32, 32);
+}
