@@ -6,3 +6,4 @@ let myData = {
 
 document.getElementById("zuri").innerHTML = myData.name + ", " + myData.height + ", " + myData.country + ".";
 
+console.log(myData);
